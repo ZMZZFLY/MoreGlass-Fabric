@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "fbshadingglass",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moreglass:fb_orange_glass"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ],
+  "result": {
+    "item": "moreglass:fb_shading_glass_orange",
+    "count": 1
+  }
+}

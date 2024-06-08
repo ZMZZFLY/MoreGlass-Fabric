@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "fbglass",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_stained_glass"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "moreglass:fb_lime_glass",
+    "count": 1
+  }
+}

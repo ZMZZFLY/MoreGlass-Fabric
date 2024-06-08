@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "moreglass",
+  "version": "1.0.0",
+  "name": "MoreGlass",
+  "description": "更多玻璃",
+  "authors": [
+    "ZephyrZeno,Linailnox"
+  ],
+  "contact": {
+    "homepage": "http://lacrus.top:66",
+    "sources": ""
+  },
+  "license": "Not specified",
+  "icon": "assets/moreglass/icon.png",
+  "accessWidener": "moreglass.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "lacrus.fuck.moreglass.MoreglassMod"
+    ],
+    "client": [
+      "lacrus.fuck.moreglass.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "moreglass.mixins.json"
+  ]
+}

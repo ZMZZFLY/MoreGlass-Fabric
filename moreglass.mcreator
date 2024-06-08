@@ -1,0 +1,1139 @@
+{
+  "mod_elements": [
+    {
+      "name": "FbGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/block/fb_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MoreGlass",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_glass",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Tabs"
+    },
+    {
+      "name": "FbWHiteGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_w_hite_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/blockstates/fb_w_hite_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_w_hite_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_w_hite_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbWHiteGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbBlackGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_black_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbBlackGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_black_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_black_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_black_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbBlueGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_blue_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_blue_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_blue_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_blue_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbBlueGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbBrownGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_brown_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbBrownGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_brown_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_brown_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_brown_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbCyanGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_cyan_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_cyan_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_cyan_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_cyan_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbCyanGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbCrayGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_gray_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_gray_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_gray_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_gray_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbCrayGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbGreenGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_green_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbGreenGlassBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_green_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_green_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_green_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbLightblueGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_lightblue_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_lightblue_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_lightblue_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_lightblue_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbLightblueGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbLimeGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_lime_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbLimeGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_lime_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_lime_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_lime_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbMagentaGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_magenta_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_magenta_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_magenta_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_magenta_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbMagentaGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbOrangeGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_orange_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_orange_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_orange_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_orange_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbOrangeGlassBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbPinkGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_pink_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_pink_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbPinkGlassBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_pink_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_pink_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbPurpleGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_purple_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbPurpleGlassBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_purple_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_purple_glass.json",
+          "src/main/resources/assets/moreglass/models/item/fb_purple_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbRedGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_red_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_red_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbRedGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_red_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_red_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbSilverGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_silver_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_silver_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbSilverGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/block/fb_silver_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_silver_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbYellowGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_yellow_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_yellow_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_yellow_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbYellowGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_yellow_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbTintedGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_tinted_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbTintedGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_tinted_glass.json",
+          "src/main/resources/assets/moreglass/models/block/fb_tinted_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_tinted_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassBlock.java",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassWhite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_white",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassWhiteBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_white.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_white.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_white.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassBlack",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_black",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_black.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassBlackBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_black.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_black.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassBlue",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_blue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_blue.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_blue.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_blue.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassBlueBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassBrown",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_brown",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassBrownBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_brown.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_brown.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_brown.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassCyan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_cyan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_cyan.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_cyan.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_cyan.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassCyanBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassGray",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_gray",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassGrayBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_gray.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_gray.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_gray.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_green.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassGreenBlock.java",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_green.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_green.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassLightblue",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_lightblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_lightblue.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassLightblueBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_lightblue.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_lightblue.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassLime",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_lime",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_lime.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_lime.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_lime.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassLimeBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassMagenta",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_magenta",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_magenta.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_magenta.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassMagentaBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_magenta.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassOrange",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_orange",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_orange.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_orange.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_orange.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassOrangeBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassPink",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_pink",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_pink.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_pink.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_pink.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassPinkBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassPurple",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_purple",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_purple.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_purple.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_purple.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassPurpleBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassRed",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_red",
+      "metadata": {
+        "files": [
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassRedBlock.java",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_red.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_red.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_red.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassSilver",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_silver",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_silver.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassSilverBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_silver.json",
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_silver.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_yellow.json",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_yellow.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassYellowBlock.java",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_yellow.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbShadingGlassTinted",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_tinted",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moreglass/models/block/fb_shading_glass_tinted.json",
+          "src/main/resources/assets/moreglass/models/item/fb_shading_glass_tinted.json",
+          "src/main/java/lacrus/fuck/moreglass/block/FbShadingGlassTintedBlock.java",
+          "src/main/resources/assets/moreglass/blockstates/fb_shading_glass_tinted.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "FbGlassRCP",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPWhite",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_white",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_white.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPBlack",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_black",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_black.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPBlue",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_blue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_blue.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPBrown",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_brown",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_brown.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPCyan",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_cyan",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_cyan.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPGray",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_gray",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_gray.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPGreen",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_green.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPLightblue",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_lightblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_lightblue.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPLime",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_lime",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_lime.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPMagenta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_magenta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_magenta.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPOrange",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_orange",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_orange.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPPink",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_pink",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_pink.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPPurple",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_purple",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_purple.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPRed",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_red",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_red.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPSilver",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_silver",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_silver.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPYellow",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_yellow.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbGlassRCPTinted",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_glass_rcp_tinted",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_glass_rcp_tinted.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCP",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPWhite",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_white",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_white.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPBlack",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_black",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_black.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPBlue",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_blue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_blue.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPBrown",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_brown",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_brown.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPCyan",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_cyan",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_cyan.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPGray",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_gray",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_gray.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPGreen",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_green.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPLightblue",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_lightblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_lightblue.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPLime",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_lime",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_lime.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPMagenta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_magenta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_magenta.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPOrange",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_orange",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_orange.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPPink",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_pink",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_pink.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPPurple",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_purple",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_purple.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPRed",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_red",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_red.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPSilver",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_silver",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_silver.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPYellow",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_yellow.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FbShadingGlassRCPTinted",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fb_shading_glass_rcp_tinted",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moreglass/recipes/fb_shading_glass_rcp_tinted.json"
+        ]
+      },
+      "path": "~/Recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "block.moreglass.fb_tinted_glass": "茶色防爆玻璃",
+      "block.moreglass.fb_blue_glass": "蓝色防爆玻璃",
+      "block.moreglass.fb_shading_glass_silver": "银色透明防爆玻璃",
+      "block.moreglass.fb_cyan_glass": "青色防爆玻璃",
+      "block.moreglass.fb_shading_glass_lime": "浅绿色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_orange": "橙色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_lightblue": "浅蓝色透明防爆玻璃",
+      "block.moreglass.fb_yellow_glass": "黄色防爆玻璃",
+      "block.moreglass.fb_orange_glass": "橙色防爆玻璃",
+      "block.moreglass.fb_purple_glass": "紫色防爆玻璃",
+      "block.moreglass.fb_w_hite_glass": "白色防爆玻璃",
+      "block.moreglass.fb_green_glass": "绿色防爆玻璃",
+      "block.moreglass.fb_shading_glass_black": "黑色透明防爆玻璃",
+      "block.moreglass.fb_lightblue_glass": "浅蓝色防爆玻璃",
+      "block.moreglass.fb_black_glass": "黑色防爆玻璃",
+      "block.moreglass.fb_lime_glass": "浅绿色防爆玻璃",
+      "block.moreglass.fb_shading_glass_brown": "棕色透明防爆玻璃",
+      "block.moreglass.fb_brown_glass": "棕色防爆玻璃",
+      "block.moreglass.fb_glass": "透明防爆玻璃",
+      "block.moreglass.fb_gray_glass": "灰色防爆玻璃",
+      "item_group.moreglass.more_glass": "更多玻璃",
+      "block.moreglass.fb_shading_glass_red": "红色透明防爆玻璃",
+      "block.moreglass.fb_silver_glass": "银色防爆玻璃",
+      "block.moreglass.fb_shading_glass_gray": "青色透明防爆玻璃",
+      "block.moreglass.fb_pink_glass": "粉色防爆玻璃",
+      "block.moreglass.fb_shading_glass_cyan": "青色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_pink": "粉色透明防爆玻璃",
+      "block.moreglass.fb_magenta_glass": "浅紫色防爆玻璃",
+      "block.moreglass.fb_shading_glass_yellow": "黄色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_magenta": "浅紫色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_green": "绿色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_tinted": "茶色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_blue": "蓝色透明防爆玻璃",
+      "block.moreglass.fb_shading_glass_white": "白色透明防爆玻璃",
+      "block.moreglass.fb_red_glass": "红色防爆玻璃",
+      "block.moreglass.fb_shading_glass": "遮光防爆玻璃",
+      "block.moreglass.fb_shading_glass_purple": "紫色透明防爆玻璃"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Tabs",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "moreglass",
+    "modName": "MoreGlass",
+    "version": "1.0.0",
+    "description": "更多玻璃",
+    "author": "ZephyrZeno,Linailnox",
+    "websiteURL": "http://lacrus.top:66",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "glass",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "MoreGlass---lacrus.ZephyrZeno and Linailnox",
+    "modElementsPackage": "lacrus.fuck.moreglass"
+  },
+  "mcreatorVersion": 202400118518
+}

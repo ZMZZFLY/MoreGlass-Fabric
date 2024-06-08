@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moreglass:block/glass_brown",
+    "up": "moreglass:block/glass_brown",
+    "north": "moreglass:block/glass_brown",
+    "east": "moreglass:block/glass_brown",
+    "south": "moreglass:block/glass_brown",
+    "west": "moreglass:block/glass_brown",
+    "particle": "moreglass:block/glass_brown"
+  },
+  "render_type": "translucent"
+}

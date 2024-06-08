@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "lacrus.fuck.moreglass.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+      "MoreglassModRepairItemRecipeMixin"  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
